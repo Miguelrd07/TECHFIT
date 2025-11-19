@@ -1,6 +1,6 @@
 # 🌐 Projeto de Aplicação Web Front-End
 
-Este projeto foi desenvolvido como atividade da disciplina de Desenvolvimento Web, com foco na criação de uma aplicação front-end utilizando **HTML5, CSS3 e JavaScript**, seguindo boas práticas de estruturação, estilo, interatividade e versionamento.
+Este projeto foi desenvolvido como atividade da disciplina de Desenvolvimento Web, com foco na criação de uma aplicação front-end de uma academia utilizando **HTML5, CSS3 e JavaScript**, seguindo boas práticas de estruturação, estilo, interatividade e versionamento.
 
 ---
 
